@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: turtle3D
+Version: 0.1
+Summary: A pakage to draw 3D models with the python turtle
+Home-page: http://javiswebsites.ga
+Author: Javiera Del Escoval
+Author-email: javieradelescoval@javiswebsites.ga
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+A pakage to draw 3D models with the python turtle, you can import .OBJ models and adjust X & Y position, colour, Y Rotation Angle and the size.
+
+
